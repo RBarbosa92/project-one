@@ -8,7 +8,7 @@ Team Members - Jalaine Pruitt
 Project Description/Outline
  Where are there the most Jobs for Data Scientists and what does the cost of living look like ?
 
-Questions to answer - What States are hring the most?
+Questions to answer - What States are hiring the most?
                       What is the salary look like ? 
                       What does the housing market look like?
                       What does Utilites look like ?
