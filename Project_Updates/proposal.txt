@@ -6,4 +6,14 @@ Team Members - Jalaine Pruitt
                Renato Barbosa
 
 Project Description/Outline
+ Where are there the most Jobs for Data Scientists and what does the cost of living look like ?
 
+Questions to answer - What States are hring the most?
+                      What is the salary look like ? 
+                      What does the housing market look like?
+                      What does Utilites look like ?
+
+Data sets
+
+https://www.bls.gov/oes/current/oes_nat.htm#31-0000
+https://www.kaggle.com/datasets/mvieira101/global-cost-of-living/data
