@@ -15,5 +15,5 @@ Questions to answer - What States are hiring the most?
 
 Data sets
 
-https://www.bls.gov/oes/current/oes_nat.htm#31-0000
+https://www.bls.gov/oes/current/oes152051.htm
 https://www.kaggle.com/datasets/mvieira101/global-cost-of-living/data
