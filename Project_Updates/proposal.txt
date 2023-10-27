@@ -6,12 +6,11 @@ Team Members - Jalaine Pruitt
                Renato Barbosa
 
 Project Description/Outline
- Where are there the most Jobs for Data Scientists and what does the cost of living look like ?
+ What states are hiring the most "job" and what the cost of is for that state.
 
-Questions to answer - What States are hiring the most?
-                      What is the salary look like ? 
-                      What does the housing market look like?
-                      What does Utilites look like ?
+Questions to answer - What states are hiring the most "Job"?
+                      What is the cost of living in those states?
+                      Based on this information where should you move too?
 
 Data sets
 
