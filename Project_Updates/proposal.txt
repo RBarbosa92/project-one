@@ -16,3 +16,4 @@ Data sets
 
 https://www.bls.gov/oes/current/oes152051.htm
 https://www.kaggle.com/datasets/mvieira101/global-cost-of-living/data
+https://www.census.gov/data/developers/data-sets.html - census data api ?
