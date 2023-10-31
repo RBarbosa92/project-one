@@ -6,7 +6,7 @@ Team Members - Jalaine Pruitt
                Renato Barbosa
 
 Project Description/Outline
- What states are hiring the most "job" and what the cost of is for that state.
+We will be analyzing the correlation between the job market for data scientists, average salaries for these jobs, and average cost of living in various cities in the U.S.
 
 Questions to answer - Where does Miami rank in net income (profit-expenses) compared to other top cities in the country
 
