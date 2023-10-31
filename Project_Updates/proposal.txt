@@ -1,0 +1,22 @@
+Group Name -  Flying Ninjas
+
+Team Members - Jalaine Pruitt
+               Mia Serrano-Salow
+               Nelson Velasco
+               Renato Barbosa
+
+Project Description/Outline
+ What states are hiring the most "job" and what the cost of is for that state.
+
+Questions to answer - Where does Miami rank in net income (profit-expenses) compared to other top cities in the country
+
+                      Can we identify regions or clusters of cities with similar patterns of data scientist salaries and cost of living?
+
+                      What recommendations can be made to individuals working in the tech industry to navigate the balance between job opportunities and housing affordability in urban areas?
+
+                      What is the best city to live in as a data scientist? Explain
+Data sets
+
+https://www.bls.gov/oes/current/oes152051.htm
+https://www.kaggle.com/datasets/mvieira101/global-cost-of-living/data
+https://www.census.gov/data/developers/data-sets.html - census data api ?
