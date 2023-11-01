@@ -1,22 +1,26 @@
-Group Name -  Flying Ninjas
+# Group Name: Flying Ninjas
 
-Team Members - Jalaine Pruitt
+# Team Members: Jalaine Pruitt
                Mia Serrano-Salow
                Nelson Velasco
                Renato Barbosa
 
-Project Description/Outline
+# Project Description/Outline
 We will be analyzing the correlation between the job market for data scientists, average salaries for these jobs, and average cost of living in various cities in the U.S.
 
-Questions to answer - Where does Miami rank in median disposable income compared to other top cities in the country
+# Questions to answer
+What are the top 5 best and top 5 worst states in the U.S. for a data scientist to live in terms of median annual salary?
 
-                      Can we identify regions or clusters of cities with similar patterns of data scientist salaries and cost of living?
+What are the top 5 most expensive states to live in and the top 5 least expensive states to live in?
 
-                      What recommendations can be made to individuals working in the tech industry to navigate the balance between job opportunities and housing affordability in urban areas?
+What recommendations can be made to individuals working in the data science field to navigate the balance between job opportunities and housing affordability in urban areas?
 
-                      What is the best city to live in as a data scientist? Explain
-Data sets
+What is the best city to live in as a data scientist based on all this information?
 
+How does the average data scientist salary after tax compare to that of other professions in each state? Which are the highest positive and negative state?
+
+
+# Data sets
 https://www.bls.gov/oes/current/oes152051.htm
 https://www.kaggle.com/datasets/mvieira101/global-cost-of-living/data
 https://www.census.gov/data/developers/data-sets.html - census data api ?
