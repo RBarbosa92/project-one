@@ -24,3 +24,16 @@ How does the average data scientist salary after tax compare to that of other pr
 https://www.bls.gov/oes/current/oes152051.htm
 https://www.kaggle.com/datasets/mvieira101/global-cost-of-living/data
 https://www.census.gov/data/developers/data-sets.html - census data api ?
+
+# Stand up 10/31
+What have you been working on?
+Finalizing data sets we will be using, downloading files to jupyter notebook, starting to code as a group
+
+What do you plan to work on between now and in next class?
+Continue coding, answer our individual questions
+
+Any blockers, issues, question?
+We were having trouble working with an API, but ultimately decided against it. 
+
+Also, how do you feel about your progress so far?
+We would like to be a little more ahead, but we were having trouble with our data sets. We are more on track now and have a solid foundation.
