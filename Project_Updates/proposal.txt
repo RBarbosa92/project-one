@@ -9,15 +9,16 @@
 We will be analyzing the correlation between the job market for data scientists, average salaries for these jobs, and average cost of living in various states in the U.S.
 
 # Questions to answer
-What are the top 5 best and top 5 worst states in the U.S. for a data scientist to live in terms of median annual salary?
+1. What are the top 5 best and top 5 worst states in the U.S. for a data scientist to live in terms of median annual salary?
 
-What are the top 5 most expensive states to live in and the top 5 least expensive states to live in?
+2. What are the top 5 most expensive states to live in and the top 5 least expensive states to live in?
 
-What recommendations can be made to individuals working in the data science field to navigate the balance between job opportunities and housing affordability in urban areas?
+3. How does the average data scientist salary after tax compare to that of other professions in each state? Which are the highest positive and negative state?
 
-What is the best city to live in as a data scientist based on all this information?
+4. What is the best state to live in as a data scientist based on all this information?
 
-How does the average data scientist salary after tax compare to that of other professions in each state? Which are the highest positive and negative state?
+5. What recommendations can be made to individuals working in the data science field to navigate the balance between job opportunities and housing affordability in urban areas?
+
 
 
 # Data sets
