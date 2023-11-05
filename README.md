@@ -17,7 +17,7 @@ This project should be used for academic research purposes only.
 Flying Ninjas
 
 ## Members/Contributors: 
-Jalaine Pruitt, Mia Serrano-Salow, Nelson Velasco, Renato Barbosa
+### Jalaine Pruitt, Mia Serrano-Salow, Nelson Velasco, Renato Barbosa
 
 ## Data references:
 https://www.bls.gov/oes/current/oes152051.htm
