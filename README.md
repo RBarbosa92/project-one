@@ -13,7 +13,8 @@ numpy
 ## Usage
 This project should be used for academic research purposes only.
 
-## Team Name: Flying Ninjas
+## Team Name
+Flying Ninjas
 
 ## Members/Contributors: 
 Jalaine Pruitt, Mia Serrano-Salow, Nelson Velasco, Renato Barbosa
