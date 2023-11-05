@@ -1,7 +1,7 @@
 # Project 1: Data Scientist’s Dilemma: Finding the Optimal State for Career and Quality of Life
 
 ## Project Description:
-We will be analyzing the correlation between the job market for data scientists, average salaries for these jobs, and average cost of living in various states in the U.S.
+We will be analyzing the correlation between the job market for data scientists, average salaries for these jobs, and average cost of living in various states in the U.S. From this data, we will conclude what the best state to live in is.
 
 ## Installations:
 jupyter notebook,
