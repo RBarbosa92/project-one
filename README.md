@@ -6,19 +6,18 @@ We will be analyzing the correlation between the job market for data scientists,
 
 Installations:
 jupyter notebook
-
+pandas
+matplotlib.pyplot
+FuncFormatter
+numpy
 
 This project should be used for academic research purposes only.
-
 
 Team Members/Contributors: 
 Jalaine Pruitt
 Mia Serrano-Salow
 Nelson Velasco
 Renato Barbosa
-
-
-Features:
 
 
 Tests needed:
