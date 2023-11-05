@@ -13,14 +13,8 @@ numpy
 
 This project should be used for academic research purposes only.
 
-Team Members/Contributors: 
-Jalaine Pruitt
-Mia Serrano-Salow
-Nelson Velasco
-Renato Barbosa
+Team Members/Contributors: Jalaine Pruitt, Mia Serrano-Salow, Nelson Velasco, Renato Barbosa
 
-
-Tests needed:
-
-
-Data references
+Data references:
+https://www.bls.gov/oes/current/oes152051.htm
+https://www.kaggle.com/datasets/mvieira101/global-cost-of-living/data
