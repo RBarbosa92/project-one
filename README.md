@@ -5,10 +5,10 @@ Project Description:
 We will be analyzing the correlation between the job market for data scientists, average salaries for these jobs, and average cost of living in various states in the U.S.
 
 Installations:
-jupyter notebook
-pandas
-matplotlib.pyplot
-FuncFormatter
+jupyter notebook,
+pandas,
+matplotlib.pyplot,
+FuncFormatter,
 numpy
 
 This project should be used for academic research purposes only.
